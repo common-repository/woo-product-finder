@@ -1,0 +1,1334 @@
+# Copyright (C) 2022 theDotstore
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Product Finder Premium 1.4.0\n"
+"Report-Msgid-Bugs-To: https://www.multidots.com/contact/\n"
+"POT-Creation-Date: 2022-07-29 10:17:40+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-08-08 12:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Country: India\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1"
+
+#: admin/class-woo-product-finder-pro-admin.php:1584
+msgid " of "
+msgstr "von"
+
+#: admin/partials/dots-upgrade-dashboard.php:75
+msgid ""
+" Provide users with relevant product suggestions based on their preferences."
+msgstr ""
+" Unterbreiten Sie Benutzern relevante Produktvorschläge basierend auf ihren "
+"Präferenzen."
+
+#: woo-product-finder.php:230
+msgid "%1$s requires %2$s to be installed & activated!"
+msgstr "Für %1$s muss %2$s installiert und aktiviert sein!"
+
+#: admin/partials/wpfp-wizard-setting.php:67
+#: admin/partials/wpfp-wizard-setting.php:498
+msgid "1"
+msgstr "1"
+
+#: admin/partials/dots-upgrade-dashboard.php:195
+msgid "1 site"
+msgstr "1 Seite"
+
+#: admin/partials/dots-upgrade-dashboard.php:205
+msgid "14-Day money-back guarantee"
+msgstr "14 Tage Geld-zurück-Garantie"
+
+#: admin/partials/dots-upgrade-dashboard.php:208
+msgid "14-Day Satisfaction Guarantee"
+msgstr "14 Tage Zufriedenheitsgarantie"
+
+#: admin/partials/wpfp-wizard-setting.php:499
+msgid "2"
+msgstr "2"
+
+#: admin/partials/wpfp-wizard-setting.php:500
+msgid "3"
+msgstr "3"
+
+#: admin/partials/wpfp-wizard-setting.php:501
+msgid "4"
+msgstr "4"
+
+#: admin/partials/wpfp-wizard-setting.php:502
+msgid "6"
+msgstr "6"
+
+#: admin/class-woo-product-finder-pro-admin.php:2367
+msgid ""
+"<strong>We need your support</strong> to keep updating and improving the "
+"plugin. Please <a href=\"%1$s\" target=\"_blank\">help us by leaving a good "
+"review</a> :) Thanks!"
+msgstr ""
+"<strong>Wir brauchen Ihre Unterstützung</strong>, um das Plugin weiter zu "
+"aktualisieren und zu verbessern. Bitte <a href=\"%1$s\" target=\"_blank\">"
+"helfen Sie uns, indem Sie eine gute Bewertung hinterlassen</a> :) Danke!"
+
+#: admin/class-woo-product-finder-pro-admin.php:1496
+#: admin/partials/wpfp-list-page.php:47
+msgid "Action"
+msgstr "Aktion"
+
+#: woo-product-finder.php:381
+msgid "Activate Plugin"
+msgstr "Plugin aktivieren"
+
+#: admin/partials/dots-upgrade-dashboard.php:111
+msgid ""
+"Activate the price range feature in the wizard settings to display the price "
+"range filter."
+msgstr ""
+"Aktivieren Sie die Preisspannenfunktion in den Assistenteneinstellungen, um "
+"den Preisspannenfilter anzuzeigen."
+
+#: admin/partials/dots-upgrade-popup.php:61
+msgid "Add a price-based filtering option with product recommendations."
+msgstr ""
+"Fügen Sie eine preisbasierte Filteroption mit Produktempfehlungen hinzu."
+
+#: admin/partials/wpfp-add-new-page.php:301
+msgid "Add New Question"
+msgstr "Nieuwe vraag toevoegen"
+
+#: admin/partials/wpfp-list-page.php:34
+msgid "Add New Wizard"
+msgstr "Neuen Assistenten hinzufügen"
+
+#: admin/partials/wpfp-wizard-setting.php:306
+#: admin/partials/wpfp-wizard-setting.php:762
+msgid "Add to Cart Button"
+msgstr "Toevoegen aan winkelwagentje"
+
+#: admin/partials/dots-upgrade-dashboard.php:62
+msgid "Add unlimited questions and options."
+msgstr "Fügen Sie unbegrenzt Fragen und Optionen hinzu."
+
+#: admin/partials/dots-upgrade-dashboard.php:108
+msgid ""
+"Adjust the minimum and maximum price fields to refine product "
+"recommendations based on budget preferences."
+msgstr ""
+"Passen Sie die Mindest- und Höchstpreisfelder an, um die Produktempfehlungen "
+"basierend auf Budgetpräferenzen zu verfeinern."
+
+#: admin/partials/dots-plugin-setup-wizard.php:92
+msgid "Astra"
+msgstr "Astra"
+
+#: admin/partials/wpfp-add-new-question-page.php:286
+msgid "Attribute Name"
+msgstr "Attributname"
+
+#: admin/partials/wpfp-add-new-question-page.php:302
+msgid "Attribute Value"
+msgstr "Attributwert"
+
+#: admin/partials/wpfp-add-new-question-page.php:120
+msgid "Back to wizard configuration"
+msgstr "Terug naar wizardconfiguratie"
+
+#: admin/partials/wpfp-add-new-question-page.php:119
+#: admin/partials/wpfp-wizard-setting.php:440
+msgid "Back to wizard list"
+msgstr "Terug naar wizardlijst"
+
+#: admin/partials/wpfp-wizard-setting.php:102
+#: admin/partials/wpfp-wizard-setting.php:541
+msgid "Background color"
+msgstr "Achtergrond kleur"
+
+#: admin/partials/wpfp-wizard-setting.php:126
+#: admin/partials/wpfp-wizard-setting.php:565
+msgid "Background color for next and prev button"
+msgstr "Achtergrondkleur voor volgende en vorige knop"
+
+#: admin/partials/wpfp-wizard-setting.php:132
+#: admin/partials/wpfp-wizard-setting.php:571
+msgid "Background color is display on next and prev button"
+msgstr "Achtergrondkleur wordt weergegeven op de volgende en vorige knop"
+
+#: admin/partials/wpfp-wizard-setting.php:156
+#: admin/partials/wpfp-wizard-setting.php:595
+msgid "Background color is display on option title."
+msgstr "Achtergrondkleur wordt weergegeven op de optietitel."
+
+#: admin/partials/wpfp-wizard-setting.php:108
+#: admin/partials/wpfp-wizard-setting.php:547
+msgid ""
+"Background color is display on specific button,Top Product Title,Products "
+"meeting most of your requirements title and pagination"
+msgstr ""
+"Achtergrondkleur wordt weergegeven op een specifieke knop, Top Producttitel, "
+"Producten die aan de meeste van uw vereisten voldoen, titel en paginering"
+
+#: admin/partials/wpfp-wizard-setting.php:89
+#: admin/partials/wpfp-wizard-setting.php:524
+msgid "Background Image For Question"
+msgstr "Achtergrondafbeelding Voor Vraag"
+
+#: admin/partials/dots-plugin-setup-wizard.php:102
+msgid "Be our friend on"
+msgstr "Sei unser Freund auf"
+
+#: admin/partials/dots-upgrade-dashboard.php:213
+msgid "Best product quiz plugin"
+msgstr "Bestes Produkt-Quiz-Plugin"
+
+#: admin/partials/dots-upgrade-dashboard.php:225
+msgid "Carl Ellison"
+msgstr "Carl Ellison"
+
+#: admin/partials/wpfp-add-new-question-page.php:148
+msgid "Checkbox"
+msgstr "Kontrollkästchen"
+
+#: admin/partials/wpfp-add-new-question-page.php:152
+#: admin/partials/wpfp-add-new-question-page.php:157
+msgid "Checkbox 🔒"
+msgstr "Kontrollkästchen 🔒"
+
+#: admin/partials/dots-upgrade-dashboard.php:138
+msgid "Close"
+msgstr "Schließen"
+
+#: admin/partials/wpfp-wizard-setting.php:22
+#: admin/partials/wpfp-wizard-setting.php:453
+msgid "Complete matched product title based on your requirements"
+msgstr "Volledige overeenkomende producttitel op basis van uw vereisten"
+
+#: admin/partials/wpfp-wizard-setting.php:230
+#: admin/partials/wpfp-wizard-setting.php:669
+msgid "Congratulations"
+msgstr "Gefeliciteerd"
+
+#: admin/partials/dots-plugin-setup-wizard.php:29
+#: admin/partials/dots-plugin-setup-wizard.php:57
+#: admin/partials/dots-plugin-setup-wizard.php:70
+#: admin/partials/dots-plugin-setup-wizard.php:115
+msgid "Continue"
+msgstr "Weitermachen"
+
+#: admin/partials/dots-upgrade-dashboard.php:100
+msgid ""
+"Control visibility and style for titles, thumbnails, attributes, and "
+"descriptions."
+msgstr ""
+"Steuern Sie Sichtbarkeit und Stil für Titel, Miniaturansichten, Attribute "
+"und Beschreibungen."
+
+#: admin/partials/dots-upgrade-dashboard.php:63
+msgid ""
+"Create any type of product quiz, such as personalized skincare quizzes or "
+"customized furniture selection."
+msgstr ""
+"Erstellen Sie Produktquiz aller Art, beispielsweise personalisierte Quizze "
+"zur Hautpflege oder individuelle Möbelauswahlen."
+
+#: admin/partials/dots-upgrade-dashboard.php:55
+msgid "Create Dynamic Questionnaires"
+msgstr "Dynamische Fragebögen erstellen"
+
+#: admin/partials/dots-upgrade-popup.php:59
+msgid "Create questionnaires based on the specific categories."
+msgstr "Erstellen Sie Fragebögen auf Grundlage der spezifischen Kategorien."
+
+#: admin/partials/dots-upgrade-dashboard.php:71
+msgid ""
+"Create tailored wizards to filter products by specific brands or categories. "
+"Enhance user experience with targeted recommendations and relevant product "
+"suggestions."
+msgstr ""
+"Erstellen Sie maßgeschneiderte Assistenten, um Produkte nach bestimmten "
+"Marken oder Kategorien zu filtern. Verbessern Sie das Benutzererlebnis mit "
+"gezielten Empfehlungen und relevanten Produktvorschlägen."
+
+#: admin/partials/dots-upgrade-popup.php:58
+msgid "Create unlimited dynamic questionnaires for products."
+msgstr "Erstellen Sie unbegrenzt dynamische Fragebögen für Produkte."
+
+#: admin/partials/dots-upgrade-dashboard.php:68
+msgid ""
+"Create wizards tailored to specific brands or categories for targeted "
+"product searches."
+msgstr ""
+"Erstellen Sie auf bestimmte Marken oder Kategorien zugeschnittene "
+"Assistenten für die gezielte Produktsuche."
+
+#: admin/partials/dots-upgrade-dashboard.php:87
+msgid "Create your flow of user answers. "
+msgstr "Erstellen Sie Ihren Fluss von Benutzerantworten."
+
+#: admin/class-woo-product-finder-pro-admin.php:1583
+#: public/class-woo-product-finder-pro-public.php:1998
+msgid "Current Page"
+msgstr "Huidige pagina"
+
+#: admin/partials/dots-upgrade-dashboard.php:222
+msgid "Customer Profile Image"
+msgstr "Kundenprofilbild"
+
+#: admin/partials/dots-upgrade-dashboard.php:56
+msgid ""
+"Customize questions to gather user preferences and improve product "
+"recommendations."
+msgstr ""
+"Passen Sie Fragen an, um Benutzerpräferenzen zu erfassen und "
+"Produktempfehlungen zu verbessern."
+
+#: admin/partials/dots-upgrade-dashboard.php:96
+msgid ""
+"Customize the wizard's appearance with background colors, images, and text "
+"styles."
+msgstr ""
+"Passen Sie das Erscheinungsbild des Assistenten mit Hintergrundfarben, "
+"Bildern und Textstilen an."
+
+#: admin/partials/dots-upgrade-dashboard.php:99
+msgid "Customize the wizard’s background to match your site’s theme."
+msgstr ""
+"Passen Sie den Hintergrund des Assistenten an, damit er zum Design Ihrer "
+"Site passt."
+
+#: admin/partials/wpfp-list-page.php:80 admin/partials/wpfp-list-page.php:111
+#: admin/partials/wpfp-list-page.php:143
+msgid "Default pagination count"
+msgstr "Standaard pagineringtelling"
+
+#: admin/class-woo-product-finder-pro-admin.php:1522
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: admin/partials/wpfp-add-new-page.php:302
+#: admin/partials/wpfp-list-page.php:35
+msgid "Delete ( Selected )"
+msgstr "Verwijder ( Geselecteerd )"
+
+#: admin/partials/dots-upgrade-dashboard.php:59
+msgid ""
+"Design and deploy tailored questionnaires with various input options. Gather "
+"user preferences to refine product recommendations and enhance shopping "
+"experiences."
+msgstr ""
+"Entwerfen und implementieren Sie maßgeschneiderte Fragebögen mit "
+"verschiedenen Eingabeoptionen. Erfassen Sie Benutzerpräferenzen, um "
+"Produktempfehlungen zu verfeinern und das Einkaufserlebnis zu verbessern."
+
+#: admin/partials/dots-upgrade-dashboard.php:74
+msgid "Design wizards to filter products by selected categories or tags."
+msgstr ""
+"Design-Assistenten zum Filtern von Produkten nach ausgewählten Kategorien "
+"oder Tags."
+
+#: admin/partials/wpfp-wizard-setting.php:220
+#: admin/partials/wpfp-wizard-setting.php:659
+msgid "Detail"
+msgstr "Detail"
+
+#: admin/class-woo-product-finder-pro-admin.php:2056
+#: admin/class-woo-product-finder-pro-admin.php:2137
+msgid "Disabled"
+msgstr "Gehandicapt"
+
+#: admin/partials/dots-upgrade-dashboard.php:125
+msgid "Discover Our Top Key Features"
+msgstr "Entdecken Sie unsere wichtigsten Funktionen"
+
+#: admin/partials/wpfp-wizard-setting.php:39
+#: admin/partials/wpfp-wizard-setting.php:470
+msgid "Display Attribute Per Product"
+msgstr "Weergavekenmerk per product"
+
+#: admin/partials/wpfp-wizard-setting.php:71
+#: admin/partials/wpfp-wizard-setting.php:506
+msgid ""
+"Display options in a one row. (EX: Two Option name display in a one row)"
+msgstr "Weergaveopties in één rij. (EX: Twee optienamen op een rij)"
+
+#: admin/partials/dots-plugin-setup-wizard.php:90
+msgid "Do the Woo"
+msgstr "Do the Woo"
+
+#: admin/partials/dots-upgrade-dashboard.php:249
+msgid "Do you offer support for the plugin? What’s it like?"
+msgstr "Bieten Sie Support für das Plugin an? Wie sieht dieser aus?"
+
+#: includes/class-woo-product-finder-pro.php:264
+msgid "Docs"
+msgstr "Dokumentation"
+
+#: admin/partials/dots-plugin-setup-wizard.php:119
+msgid "Done"
+msgstr "Erledigt"
+
+#: admin/class-woo-product-finder-pro-admin.php:428
+#| msgid "DotStore Plugins"
+msgid "Dotstore Plugins"
+msgstr "Dotstore Plugins"
+
+#: admin/partials/dots-upgrade-dashboard.php:93
+msgid ""
+"Easily customize the wizard’s look with options for background color, images,"
+" and text styling."
+msgstr ""
+"Passen Sie das Erscheinungsbild des Assistenten ganz einfach mit Optionen "
+"für Hintergrundfarbe, Bilder und Textstil an."
+
+#: admin/partials/dots-upgrade-popup.php:60
+msgid "Easily manage questionnaire with our adaptive question flow."
+msgstr ""
+"Verwalten Sie Fragebögen ganz einfach mit unserem adaptiven Fragenfluss."
+
+#: admin/partials/dots-upgrade-dashboard.php:105
+msgid ""
+"Easily set up and manage price ranges in your product wizard to filter "
+"results according to user-selected prices."
+msgstr ""
+"Richten Sie Preisspannen einfach in Ihrem Produktassistenten ein und "
+"verwalten Sie sie, um die Ergebnisse nach vom Benutzer ausgewählten Preisen "
+"zu filtern."
+
+#: admin/class-woo-product-finder-pro-admin.php:1521
+msgid "Edit"
+msgstr "Bewerk"
+
+#: admin/partials/wpfp-add-new-page.php:268
+msgid "Enable/Disable price range option."
+msgstr "Optie prijsklasse in-/uitschakelen."
+
+#: admin/class-woo-product-finder-pro-admin.php:2054
+#: admin/class-woo-product-finder-pro-admin.php:2135
+msgid "Enabled"
+msgstr "Ingeschakeld"
+
+#: admin/partials/dots-plugin-setup-wizard.php:26
+msgid ""
+"Enhance customer satisfaction by creating personalized & refined product "
+"recommendation quizzes. Help shoppers discover preferences faster. Witness "
+"business growth with customer satisfaction!"
+msgstr ""
+"Steigern Sie die Kundenzufriedenheit, indem Sie personalisierte und "
+"verfeinerte Quizze zu Produktempfehlungen erstellen. Helfen Sie Käufern "
+"dabei, Vorlieben schneller zu entdecken. Erleben Sie Geschäftswachstum durch "
+"Kundenzufriedenheit!"
+
+#: admin/partials/dots-upgrade-dashboard.php:80
+msgid ""
+"Ensure a seamless user experience by adapting subsequent questions based on "
+"previous answers."
+msgstr ""
+"Sorgen Sie für ein nahtloses Benutzererlebnis, indem Sie nachfolgende Fragen "
+"auf Grundlage vorheriger Antworten anpassen."
+
+#: admin/partials/wpfp-add-new-page.php:117
+#: admin/partials/wpfp-list-page.php:20
+msgid "Error Happens.Please try again"
+msgstr "Er gebeurt een fout. Probeer het opnieuw"
+
+#: admin/partials/dots-upgrade-dashboard.php:245
+msgid "FAQs"
+msgstr "FAQs"
+
+#: admin/class-woo-product-finder-pro-admin.php:1579
+#: public/class-woo-product-finder-pro-public.php:1984
+msgid "First page"
+msgstr "Eerste pagina"
+
+#: admin/partials/header/plugin-header.php:14
+#: admin/partials/header/plugin-header.php:19
+msgid "Free"
+msgstr "Frei"
+
+#: admin/partials/dots-plugin-setup-wizard.php:40
+msgid ""
+"Get improved features and faster fixes by sharing non-sensitive data via "
+"usage-tracking. This will help us make the plugin more compatible with your "
+"site. No personal data is tracked or stored."
+msgstr ""
+"Erhalten Sie verbesserte Funktionen und schnellere Fehlerbehebungen, indem "
+"Sie nicht vertrauliche Daten über die Nutzungsverfolgung teilen. Dadurch "
+"können wir das Plugin besser mit Ihrer Site kompatibel machen. Es werden "
+"keine persönlichen Daten verfolgt oder gespeichert."
+
+#: admin/partials/header/plugin-header.php:127
+msgid "Get Premium"
+msgstr "Premium bekommen"
+
+#: admin/partials/dots-upgrade-dashboard.php:199
+#: admin/partials/dots-upgrade-dashboard.php:299
+msgid "Get The Premium Version"
+msgstr "Holen Sie sich die Premium-Version"
+
+#: admin/partials/dots-upgrade-dashboard.php:196
+msgid "Great for website owners with a single WooCommerce Store"
+msgstr "Ideal für Websitebesitzer mit einem einzelnen WooCommerce-Store"
+
+#: admin/partials/wpfp-wizard-setting.php:703
+#: admin/partials/wpfp-wizard-setting.php:707
+#: admin/partials/wpfp-wizard-setting.php:712
+msgid "Grid"
+msgstr "Rooster"
+
+#: admin/partials/header/plugin-header.php:84
+msgid "Help"
+msgstr "Helfen"
+
+#: admin/partials/dots-plugin-setup-wizard.php:39
+msgid "Help us build a better \"Product Recommendation Quiz\" Plugin!"
+msgstr ""
+"Helfen Sie uns, ein besseres Plugin \"Produkt-Empfehlungs-Quiz\" zu "
+"entwickeln!"
+
+#: admin/partials/wpfp-wizard-setting.php:313
+#: admin/partials/wpfp-wizard-setting.php:769
+msgid "Hide Wizard Box Last Step"
+msgstr "Verberg Wizard Box Laatste stap"
+
+#: admin/partials/wpfp-wizard-setting.php:45
+#: admin/partials/wpfp-wizard-setting.php:476
+msgid "How many attribute display per product?"
+msgstr "Hoeveel attributen worden per product weergegeven?"
+
+#: admin/partials/wpfp-wizard-setting.php:63
+#: admin/partials/wpfp-wizard-setting.php:494
+msgid "How many options item display in a one row?"
+msgstr "Hoeveel optie-items worden in een rij weergegeven?"
+
+#: admin/partials/wpfp-wizard-setting.php:57
+#: admin/partials/wpfp-wizard-setting.php:488
+msgid "How many product display per page?"
+msgstr "Hoeveel productweergave per pagina?"
+
+#: admin/partials/wpfp-get-started-page.php:11
+msgid "How to Get Started"
+msgstr "Wie man anfängt"
+
+#: admin/partials/dots-upgrade-dashboard.php:282
+msgid "I have more questions…"
+msgstr "Ich habe weitere Fragen…"
+
+#: admin/partials/wpfp-add-new-question-page.php:216
+msgid ""
+"If you are creating wizard based on shoes, then you want to enter option "
+"title related to attribute value ( EX: Attribute value is male, then you "
+"should keep option name : Male )"
+msgstr ""
+"Als u een wizard maakt op basis van schoenen, dan wilt u de optietitel "
+"invoeren die verband houdt met de attribuutwaarde (EX: Attribuutwaarde is "
+"mannelijk, dan moet u de optienaam: Man behouden)"
+
+#: admin/partials/wpfp-add-new-page.php:190
+#: admin/partials/wpfp-add-new-page.php:204
+#: admin/partials/wpfp-add-new-page.php:219
+msgid ""
+"If you select category, then product will display based on these selected "
+"category."
+msgstr ""
+"Als u een categorie selecteert, wordt het product weergegeven op basis van "
+"deze geselecteerde categorie."
+
+#: admin/partials/wpfp-add-new-page.php:242
+msgid ""
+"If you select tags, then product will display based on these selected tags."
+msgstr ""
+"Als u tags selecteert, wordt het product weergegeven op basis van deze "
+"geselecteerde tags."
+
+#: admin/partials/wpfp-add-new-question-page.php:234
+msgid "Invalid file or images( Allow only png,jpg,jpeg or gif )"
+msgstr ""
+"Ongeldig bestand of afbeeldingen (alleen png, jpg, jpeg of gif toestaan)"
+
+#: admin/partials/dots-upgrade-dashboard.php:88
+msgid "Keep the questionnaire focused and engaging. "
+msgstr "Gestalten Sie den Fragebogen fokussiert und ansprechend."
+
+#: admin/partials/dots-upgrade-dashboard.php:256
+msgid "knowledge base"
+msgstr "Wissensbasis"
+
+#: admin/class-woo-product-finder-pro-admin.php:1592
+#: public/class-woo-product-finder-pro-public.php:2009
+msgid "Last page"
+msgstr "Laatste pagina"
+
+#: admin/partials/dots-plugin-setup-wizard.php:87
+msgid "LearnWoo"
+msgstr "LearnWoo"
+
+#: admin/partials/header/plugin-header.php:121
+msgid "License"
+msgstr "Lizenz"
+
+#: admin/partials/wpfp-wizard-setting.php:260
+#: admin/partials/wpfp-wizard-setting.php:716
+msgid "List"
+msgstr "Aufführen"
+
+#: admin/partials/wpfp-add-new-question-page.php:173
+msgid "Manage Options"
+msgstr "Opties beheren"
+
+#: admin/partials/wpfp-get-started-page.php:23
+msgid "Manage Product Quizzes"
+msgstr "Produkttests verwalten"
+
+#: admin/partials/wpfp-add-new-page.php:300
+msgid "Manage Questions"
+msgstr "Vragen beheren"
+
+#: admin/partials/header/plugin-header.php:112
+#: admin/partials/wpfp-list-page.php:33
+msgid "Manage Wizards"
+msgstr "Wizards beheren"
+
+#: admin/partials/wpfp-list-page.php:59 admin/partials/wpfp-list-page.php:130
+msgid "Master Settings"
+msgstr "Master-Einstellungen"
+
+#: admin/partials/wpfp-list-page.php:98
+msgid "Master Settings "
+msgstr "Master-Einstellungen"
+
+#: admin/partials/dots-plugin-setup-wizard.php:94
+msgid "Medium"
+msgstr "Medium"
+
+#: admin/partials/dots-upgrade-dashboard.php:190
+msgid "month"
+msgstr "monat"
+
+#: admin/partials/header/plugin-header.php:91
+msgid "My Account"
+msgstr "Mijn rekening"
+
+#: admin/class-woo-product-finder-pro-admin.php:1494
+#: admin/partials/wpfp-list-page.php:44
+msgid "Name"
+msgstr "Naam"
+
+#: admin/partials/dots-plugin-setup-wizard.php:47
+msgid "Never miss an important update"
+msgstr "Verpassen Sie nie wieder ein wichtiges Update"
+
+#: admin/partials/wpfp-wizard-setting.php:183
+#: admin/partials/wpfp-wizard-setting.php:622
+msgid "Next"
+msgstr "Volgende"
+
+#: admin/class-woo-product-finder-pro-admin.php:1587
+#: public/class-woo-product-finder-pro-public.php:2004
+msgid "Next page"
+msgstr "Volgende pagina"
+
+#: admin/partials/wpfp-add-new-question-page.php:327
+msgid "Next question"
+msgstr "Volgende vraag"
+
+#: admin/partials/dots-upgrade-dashboard.php:79
+msgid "Next Question Based on Selected Option"
+msgstr "Nächste Frage basierend auf der ausgewählten Option"
+
+#: admin/partials/wpfp-list-page.php:73 admin/partials/wpfp-list-page.php:106
+#: admin/partials/wpfp-list-page.php:138
+msgid "No"
+msgstr "Nee"
+
+#: admin/class-woo-product-finder-pro-admin.php:1529
+#: admin/class-woo-product-finder-pro-admin.php:2073
+#: admin/class-woo-product-finder-pro-admin.php:2154
+msgid "No List Available"
+msgstr "Geen lijst beschikbaar"
+
+#: admin/class-woo-product-finder-pro-admin.php:1946
+msgid "No List found"
+msgstr "Geen lijst gevonden"
+
+#: public/class-woo-product-finder-pro-public-shortcode-creator.php:291
+#: public/class-woo-product-finder-pro-public.php:517
+msgid "No Option Available"
+msgstr "Geen optie beschikbaar"
+
+#: admin/partials/dots-upgrade-dashboard.php:288
+msgid "No problem, we’re happy to help! Please reach out at %s."
+msgstr "Kein Problem, wir helfen Ihnen gerne! Wenden Sie sich bitte an %s."
+
+#: public/class-woo-product-finder-pro-public-shortcode-creator.php:308
+msgid "No Questions Available"
+msgstr "Geen vragen beschikbaar"
+
+#: admin/partials/dots-plugin-setup-wizard.php:48
+msgid ""
+"Opt-in to get email notifications for security & feature updates and to "
+"share some important WooCommerce updates. This will help us make the plugin "
+"more compatible with your version and better at doing what you need it to. "
+"No personal data is tracked or stored."
+msgstr ""
+"Melden Sie sich an, um E-Mail-Benachrichtigungen zu Sicherheits- und "
+"Funktionsupdates zu erhalten und wichtige WooCommerce-Updates zu teilen. "
+"Dadurch können wir das Plugin besser mit Ihrer Version kompatibel machen und "
+"es Ihren Anforderungen entsprechend optimieren. Es werden keine persönlichen "
+"Daten erfasst oder gespeichert."
+
+#: admin/partials/wpfp-add-new-question-page.php:226
+#: admin/partials/wpfp-add-new-question-page.php:247
+#: admin/partials/wpfp-add-new-question-page.php:267
+msgid "Options Image"
+msgstr "Opties Afbeelding"
+
+#: admin/partials/wpfp-add-new-question-page.php:211
+msgid "Options Title"
+msgstr "Opties Titel"
+
+#: admin/partials/dots-plugin-setup-wizard.php:95
+msgid "Others"
+msgstr "Others"
+
+#: admin/partials/wpfp-add-new-page.php:254
+msgid ""
+"Paste shortcode in that page where you want to configure recommandation "
+"wizard )"
+msgstr ""
+"Plak shortcode op die pagina waar u de aanbevelingswizard wilt configureren)"
+
+#: admin/partials/dots-upgrade-dashboard.php:191
+msgid "Pay $%s today. Renews in 12 months."
+msgstr "Zahlen Sie heute $%s. Verlängert sich in 12 Monaten."
+
+#: admin/partials/dots-upgrade-dashboard.php:184
+msgid "Personal"
+msgstr "Persönlich"
+
+#: admin/partials/dots-upgrade-dashboard.php:182
+msgid "Personal Plan"
+msgstr "Persönlicher Plan"
+
+#: admin/partials/dots-upgrade-dashboard.php:104
+msgid "Personalized Pricing Advice and Filters"
+msgstr "Personalisierte Preisberatung und Filter"
+
+#: public/class-woo-product-finder-pro-public-shortcode-creator.php:215
+msgid "Please answer the question."
+msgstr "Beantwoord alstublieft de vraag."
+
+#: admin/partials/wpfp-add-new-question-page.php:217
+msgid "Please Enter Options Title Here"
+msgstr "Voer hier de titel van de opties in"
+
+#: admin/partials/wpfp-add-new-question-page.php:297
+msgid "Please Select Attribute Name"
+msgstr "Selecteer a.u.b. attribuutnaam"
+
+#: admin/partials/wpfp-add-new-question-page.php:322
+msgid "Please Select Attribute Value"
+msgstr "Selecteer a.u.b. attribuutwaarde"
+
+#: admin/partials/wpfp-get-started-page.php:28
+msgid "Plugin Tour"
+msgstr "Plugin-Tour"
+
+#: includes/class-woo-product-finder-pro-activator.php:38
+msgid "Plugins page"
+msgstr "Pagina met plug-ins"
+
+#: admin/partials/dots-upgrade-dashboard.php:92
+msgid "Popular Product Wizard Settings"
+msgstr "Einstellungen des Assistenten für beliebte Produkte"
+
+#: admin/class-woo-product-finder-pro-admin.php:1581
+#: public/class-woo-product-finder-pro-public.php:1986
+msgid "Previous page"
+msgstr "Vorige pagina"
+
+#: admin/partials/wpfp-add-new-page.php:261
+msgid "Price Range Status"
+msgstr "Prijsklasse Status"
+
+#: admin/partials/header/plugin-header.php:10
+msgid "Pro"
+msgstr "Profi"
+
+#: admin/partials/wpfp-wizard-setting.php:292
+#: admin/partials/wpfp-wizard-setting.php:748
+msgid "Product Attributes"
+msgstr "Productkenmerken"
+
+#: admin/partials/wpfp-wizard-setting.php:268
+#: admin/partials/wpfp-wizard-setting.php:724
+msgid "Product Fields"
+msgstr "Productvelden"
+
+#: admin/partials/wpfp-wizard-setting.php:257
+#: admin/partials/wpfp-wizard-setting.php:696
+msgid "Product List View"
+msgstr "Productlijstweergave"
+
+#: includes/constant.php:17 includes/constant.php:18
+msgid "Product Recommendation Quiz"
+msgstr "Productaanbevelingsquiz"
+
+#: woo-product-finder.php:225
+msgid "Product Recommendation Quiz For WooCommerce"
+msgstr "Product Recommendation Quiz For WooCommerce"
+
+#: admin/partials/wpfp-wizard-setting.php:299
+#: admin/partials/wpfp-wizard-setting.php:755
+msgid "Product Short Description"
+msgstr "Korte productbeschrijving:"
+
+#: admin/partials/wpfp-wizard-setting.php:285
+#: admin/partials/wpfp-wizard-setting.php:741
+msgid "Product Thumbnail"
+msgstr "Miniatuur product"
+
+#: admin/partials/wpfp-wizard-setting.php:278
+#: admin/partials/wpfp-wizard-setting.php:734
+msgid "Product Title"
+msgstr "Producttitel:"
+
+#: admin/partials/wpfp-wizard-setting.php:51
+#: admin/partials/wpfp-wizard-setting.php:482
+msgid "Products Per Page"
+msgstr "Producten per pagina"
+
+#: admin/partials/wpfp-add-new-question-page.php:118
+msgid "Question Configuration"
+msgstr "Vraagconfiguratie"
+
+#: admin/partials/wpfp-add-new-question-page.php:134
+msgid "Question Description Here ( EX: I prefer my shoes to be )"
+msgstr "Vraag Beschrijving Hier (EX: Ik heb liever dat mijn schoenen zijn)"
+
+#: admin/partials/wpfp-add-new-question-page.php:129
+msgid "Question Title"
+msgstr "Vraag Titel"
+
+#: admin/partials/wpfp-add-new-question-page.php:139
+msgid "Question Type"
+msgstr "vraag type"
+
+#: admin/partials/dots-upgrade-dashboard.php:86
+msgid "Questions adjust based on prior answers."
+msgstr "Die Fragen werden auf Grundlage vorheriger Antworten angepasst."
+
+#: admin/partials/dots-plugin-setup-wizard.php:64
+#: admin/partials/dots-plugin-setup-wizard.php:66
+msgid "Quick Tour"
+msgstr "Schnelle Tour"
+
+#: admin/partials/wpfp-add-new-question-page.php:143
+msgid "Radio"
+msgstr "Radio"
+
+#: admin/partials/wpfp-get-started-page.php:24
+msgid "Read the Setup Guide"
+msgstr "Lesen Sie die Installationsanleitung"
+
+#: admin/partials/wpfp-wizard-setting.php:33
+#: admin/partials/wpfp-wizard-setting.php:464
+msgid "Recently matched product title based on your requirements"
+msgstr "Onlangs overeenkomende producttitel op basis van uw vereisten"
+
+#: admin/partials/wpfp-wizard-setting.php:174
+#: admin/partials/wpfp-wizard-setting.php:613
+msgid "Reload Title"
+msgstr "Titel opnieuw laden"
+
+#: admin/partials/wpfp-add-new-question-page.php:231
+#: admin/partials/wpfp-wizard-setting.php:94
+#: admin/partials/wpfp-wizard-setting.php:529
+msgid "Remove File"
+msgstr "Bestand verwijderen"
+
+#: admin/partials/wpfp-add-new-question-page.php:16
+#: admin/partials/wpfp-add-new-question-page.php:87
+msgid "Save"
+msgstr "Opslaan"
+
+#: admin/partials/wpfp-add-new-page.php:16
+#: admin/partials/wpfp-add-new-page.php:90
+msgid "Save & Continue"
+msgstr "Opslaan doorgaan"
+
+#: admin/partials/wpfp-list-page.php:87 admin/partials/wpfp-list-page.php:118
+#: admin/partials/wpfp-list-page.php:150
+msgid "Save Master Settings"
+msgstr "Hoofdinstellingen opslaan"
+
+#: admin/partials/wpfp-list-page.php:36
+msgid "Search"
+msgstr "Suchen"
+
+#: admin/partials/dots-plugin-setup-wizard.php:86
+msgid "Search Engine"
+msgstr "Search Engine"
+
+#: admin/partials/wpfp-add-new-question-page.php:296
+msgid ""
+"Select attribute name which is created in Product attribute section (Ex. "
+"Attribute name: Gender Attribute value: gender) type attribute value gender"
+msgstr ""
+"Selecteer de attribuutnaam die is gemaakt in de sectie Productattribuut "
+"(bijv. Attribuutnaam: Geslacht Attribuutwaarde: geslacht) type "
+"attribuutwaarde geslacht"
+
+#: admin/partials/wpfp-add-new-question-page.php:321
+msgid "Select attribute value which is created in Product attribute section"
+msgstr "Selecteer kenmerkwaarde die is gemaakt in het gedeelte Productkenmerk"
+
+#: admin/partials/wpfp-wizard-setting.php:317
+#: admin/partials/wpfp-wizard-setting.php:773
+msgid "Select fields to showcase on product finder wizards"
+msgstr "Selecteer velden om te laten zien op productzoekerwizards"
+
+#: admin/partials/wpfp-add-new-question-page.php:331
+msgid "Select Next Question"
+msgstr "Selecteer Volgende Vraag"
+
+#: admin/partials/dots-plugin-setup-wizard.php:84
+msgid "Select One"
+msgstr "Select One"
+
+#: admin/partials/wpfp-add-new-question-page.php:164
+msgid "Select questions type radio or checkbox"
+msgstr "Selecteer vragen type radio of checkbox"
+
+#: admin/partials/wpfp-add-new-page.php:280
+msgid "Set Min/Max Price Range"
+msgstr "Min/Max prijsbereik instellen"
+
+#: admin/partials/wpfp-add-new-page.php:285
+msgid "Set minimum and maximum price range to filter the product."
+msgstr "Stel minimum- en maximumprijsbereik in om het product te filteren."
+
+#: admin/partials/dots-upgrade-dashboard.php:112
+msgid "Set minimum and maximum price values for filtering."
+msgstr "Legen Sie zum Filtern minimale und maximale Preiswerte fest."
+
+#: admin/partials/wpfp-add-new-question-page.php:345
+msgid "Set next question for this option."
+msgstr "Stel de volgende vraag in voor deze optie."
+
+#: admin/partials/wpfp-wizard-setting.php:263
+#: admin/partials/wpfp-wizard-setting.php:719
+msgid "Set your own listing type of results."
+msgstr "Stel uw eigen lijsttype resultaten in."
+
+#: includes/class-woo-product-finder-pro.php:263
+msgid "Settings"
+msgstr "Instellingen"
+
+#: admin/partials/wpfp-list-page.php:45
+msgid "Shortcode"
+msgstr "Korte code"
+
+#: public/class-woo-product-finder-pro-public.php:1206
+#: public/class-woo-product-finder-pro-public.php:1355
+msgid "Show Less"
+msgstr "Zeige weniger"
+
+#: admin/partials/dots-plugin-setup-wizard.php:85
+msgid "Social Media"
+msgstr "Social Media"
+
+#: admin/partials/wpfp-list-page.php:46
+msgid "Status"
+msgstr "Toestand"
+
+#: admin/partials/header/plugin-header.php:75
+msgid "Suggest"
+msgstr "Vorschlagen"
+
+#: admin/partials/header/plugin-header.php:72
+#: includes/class-woo-product-finder-pro.php:265
+msgid "Support"
+msgstr "Steun"
+
+#: admin/partials/dots-upgrade-dashboard.php:257
+msgid "support ticket"
+msgstr "Unterstüzungsticket"
+
+#: admin/partials/wpfp-wizard-setting.php:114
+#: admin/partials/wpfp-wizard-setting.php:553
+msgid "Text color"
+msgstr "Tekst kleur"
+
+#: admin/partials/wpfp-wizard-setting.php:138
+#: admin/partials/wpfp-wizard-setting.php:577
+msgid "Text color for next and prev button"
+msgstr "Tekstkleur voor volgende en vorige knop"
+
+#: admin/partials/wpfp-wizard-setting.php:77
+#: admin/partials/wpfp-wizard-setting.php:512
+msgid "Text color for wizard title"
+msgstr "Tekstkleur voor wizardtitel"
+
+#: admin/partials/wpfp-wizard-setting.php:144
+#: admin/partials/wpfp-wizard-setting.php:583
+msgid "Text color is display on next and prev button"
+msgstr "Tekstkleur wordt weergegeven op de volgende en vorige knop"
+
+#: admin/partials/wpfp-wizard-setting.php:168
+#: admin/partials/wpfp-wizard-setting.php:607
+msgid "Text color is display on option title."
+msgstr "Tekstkleur wordt weergegeven op de optietitel."
+
+#: admin/partials/wpfp-wizard-setting.php:120
+#: admin/partials/wpfp-wizard-setting.php:559
+msgid ""
+"Text color is display on specific button,Top Product Title,Products meeting "
+"most of your requirements title and pagination text"
+msgstr ""
+"Tekstkleur wordt weergegeven op een specifieke knop, Topproducttitel, "
+"Producten die aan de meeste van uw vereisten voldoen, titel en "
+"pagineringstekst"
+
+#: admin/partials/wpfp-wizard-setting.php:83
+#: admin/partials/wpfp-wizard-setting.php:518
+msgid "Text color is display on wizard title."
+msgstr "Tekstkleur wordt weergegeven op de titel van de wizard."
+
+#: admin/partials/wpfp-get-started-page.php:13
+msgid ""
+"Thank you for choosing our top-rated WooCommerce Product Recommendation Quiz "
+"plugin. Our user-friendly interface makes it easy to set up different "
+"product recommendation quizzes to help your customers find the perfect "
+"products."
+msgstr ""
+"Vielen Dank, dass Sie sich für unser erstklassiges WooCommerce Product "
+"Recommendation Quiz plugin entschieden haben. Unsere benutzerfreundliche "
+"Oberfläche erleichtert das Einrichten verschiedener Produktempfehlungsquizze,"
+" um Ihren Kunden dabei zu helfen, die perfekten Produkte zu finden."
+
+#: admin/partials/dots-upgrade-dashboard.php:83
+msgid ""
+"The next question adapts based on the user's previous answers. This keeps "
+"the filtering process relevant and helps users find products that match "
+"their choices."
+msgstr ""
+"Die nächste Frage wird auf Grundlage der vorherigen Antworten des Benutzers "
+"angepasst. Dadurch bleibt der Filtervorgang relevant und Benutzer finden "
+"Produkte, die ihren Auswahlen entsprechen."
+
+#: admin/partials/dots-upgrade-dashboard.php:215
+msgid ""
+"This is the <strong>best product quiz plugin</strong> by far. We have been "
+"looking for a product quiz plugin for WooCommerce to use for a long time and "
+"<strong>this one is just what we need</strong>!"
+msgstr ""
+"Dies ist bei weitem das <strong>beste Produktquiz-Plugin</strong>. Wir haben "
+"lange nach einem Produktquiz-Plugin für WooCommerce gesucht und <strong>"
+"dieses ist genau das, was wir brauchen</strong>!"
+
+#: admin/partials/wpfp-wizard-setting.php:269
+#: admin/partials/wpfp-wizard-setting.php:725
+msgid "Title field is required"
+msgstr "Titelveld is verplicht"
+
+#: admin/partials/wpfp-get-started-page.php:17
+msgid ""
+"To help you get started, watch the quick tour video on the right. For more "
+"help, explore our help documents or visit our %s for detailed video "
+"tutorials."
+msgstr ""
+"Um Ihnen den Einstieg zu erleichtern, sehen Sie sich das Kurztour-Video "
+"rechts an. Weitere Hilfe finden Sie in unseren Hilfedokumenten oder besuchen "
+"Sie unsere %s für ausführliche Video-Tutorials."
+
+#: admin/class-woo-product-finder-pro-admin.php:864
+#: admin/class-woo-product-finder-pro-admin.php:888
+#: admin/class-woo-product-finder-pro-admin.php:913
+#: admin/class-woo-product-finder-pro-admin.php:935
+msgid "true"
+msgstr "WAHR"
+
+#: admin/partials/dots-upgrade-dashboard.php:200
+msgid "Trusted by 100,000+ store owners and WP experts!"
+msgstr "Mehr als 100.000 Ladenbesitzer und WP-Experten vertrauen uns!"
+
+#: admin/class-woo-product-finder-pro-admin.php:1495
+msgid "Type"
+msgstr "Type"
+
+#: admin/partials/dots-upgrade-popup.php:56
+msgid ""
+"Unlock a world of possibilities for your WooCommerce store with our Premium "
+"Product Recommendation Quiz plugin!"
+msgstr ""
+"Erschließen Sie Ihrem WooCommerce-Shop eine Welt voller Möglichkeiten mit "
+"unserem Premium-Plugin „Quiz zu Produkt-Empfehlungen“!"
+
+#: admin/partials/dots-upgrade-popup.php:52
+msgid "Unlock Premium Features Today!"
+msgstr "Schalten Sie noch heute Premium-Funktionen frei!"
+
+#: admin/partials/dots-upgrade-popup.php:48
+msgid "Unlock Premium Features with a %s%% Discount!"
+msgstr "Schalten Sie Premium-Funktionen mit einem %s%% Rabatt frei!"
+
+#: admin/partials/wpfp-add-new-page.php:17
+#: admin/partials/wpfp-add-new-page.php:73
+#: admin/partials/wpfp-add-new-question-page.php:17
+#: admin/partials/wpfp-add-new-question-page.php:76
+msgid "Update"
+msgstr "Aktualisieren"
+
+#: admin/partials/dots-upgrade-popup.php:65
+#: admin/partials/header/plugin-header.php:95
+#: admin/partials/header/plugin-header.php:100
+msgid "Upgrade Now"
+msgstr "Jetzt upgraden"
+
+#: admin/partials/dots-upgrade-dashboard.php:121
+msgid ""
+"Upgrade to premium to access advanced features, enhance customer "
+"satisfaction, and personalized product listings!"
+msgstr ""
+"Aktualisieren Sie auf Premium, um auf erweiterte Funktionen zuzugreifen, die "
+"Kundenzufriedenheit zu verbessern und personalisierte Produktlisten zu "
+"erhalten!"
+
+#: admin/partials/dots-upgrade-popup.php:41
+#| msgid "Upgrade To Pro"
+msgid "Upgrade to Pro"
+msgstr "Upgrade auf Pro"
+
+#: admin/partials/dots-upgrade-dashboard.php:120
+msgid "Upgrade to Unlock Premium Features"
+msgstr "Upgrade zum Freischalten von Premium-Funktionen"
+
+#: admin/partials/wpfp-wizard-setting.php:96
+#: admin/partials/wpfp-wizard-setting.php:531
+msgid ""
+"Upload Background image here which is display in front side background of "
+"all question list"
+msgstr ""
+"Upload hier de achtergrondafbeelding die wordt weergegeven op de achtergrond "
+"aan de voorkant van alle vragenlijsten"
+
+#: admin/partials/wpfp-add-new-question-page.php:230
+#: admin/partials/wpfp-add-new-question-page.php:251
+#: admin/partials/wpfp-add-new-question-page.php:271
+#: admin/partials/wpfp-wizard-setting.php:93
+#: admin/partials/wpfp-wizard-setting.php:528
+msgid "Upload File"
+msgstr "Upload bestand"
+
+#: admin/partials/wpfp-add-new-question-page.php:233
+#: admin/partials/wpfp-add-new-question-page.php:253
+#: admin/partials/wpfp-add-new-question-page.php:273
+msgid "Upload Options Image Here"
+msgstr "Uploadopties Afbeelding hier"
+
+#: admin/partials/dots-upgrade-dashboard.php:236
+msgid "Verified Customer"
+msgstr "Verifizierter Kunde"
+
+#: public/class-woo-product-finder-pro-public.php:1203
+#: public/class-woo-product-finder-pro-public.php:1352
+msgid "View More"
+msgstr "Mehr sehen"
+
+#: admin/partials/wpfp-list-page.php:69 admin/partials/wpfp-list-page.php:103
+#: admin/partials/wpfp-list-page.php:135
+msgid "Want to display product finder result at last?"
+msgstr "Wilt u eindelijk het resultaat van de productzoeker weergeven?"
+
+#: admin/partials/dots-upgrade-dashboard.php:277
+msgid "We have a 14-day money-back guarantee."
+msgstr "Wir haben eine 14-tägige Geld-zurück-Garantie."
+
+#: admin/partials/wpfp-get-started-page.php:12
+msgid "Welcome to Product Recommendation Quiz Plugin"
+msgstr "Willkommen beim Product Recommendation Quiz Plugin"
+
+#: admin/partials/dots-plugin-setup-wizard.php:24
+msgid "Welcome! 🤗"
+msgstr "Herzlich willkommen! 🤗"
+
+#: admin/partials/dots-upgrade-dashboard.php:266
+msgid "What payment methods do you accept?"
+msgstr "Welche Zahlungsmethoden werden akzeptiert?"
+
+#: admin/partials/dots-upgrade-dashboard.php:274
+msgid "What’s your refund policy?"
+msgstr "Wie sind Ihre Rückerstattungsrichtlinien?"
+
+#: admin/partials/wpfp-add-new-page.php:175
+#: admin/partials/wpfp-add-new-page.php:198
+#: admin/partials/wpfp-add-new-page.php:213
+msgid "Wizard Category"
+msgstr "Wizard Categorie"
+
+#: admin/partials/wpfp-add-new-page.php:144
+msgid "Wizard Configuration"
+msgstr "Wizard Configuratie"
+
+#: admin/partials/wpfp-wizard-setting.php:439
+msgid "Wizard Setting For"
+msgstr "Wizard-instelling voor"
+
+#: admin/partials/wpfp-wizard-setting.php:12
+#| msgid "Wizard Setting"
+msgid "Wizard Settings"
+msgstr "Assistenteinstellungen"
+
+#: admin/partials/wpfp-add-new-page.php:247
+msgid "Wizard Shortcode"
+msgstr "Wizard Shortcode"
+
+#: admin/partials/wpfp-add-new-page.php:227
+msgid "Wizard Tags"
+msgstr "Wizard-tags"
+
+#: admin/partials/wpfp-add-new-page.php:166
+msgid ""
+"Wizard title will display in front side at top of product list ( EX:HELP ME "
+"PICK MY SHOES! )"
+msgstr ""
+"De titel van de wizard wordt weergegeven aan de voorkant bovenaan de "
+"productlijst (EX: HELP ME PICK MIJN SCHOENEN!)"
+
+#: admin/partials/dots-upgrade-dashboard.php:67
+msgid "Wizards Based on Specific Categories"
+msgstr "Auf bestimmten Kategorien basierende Assistenten"
+
+#: woo-product-finder.php:226
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: admin/partials/dots-plugin-setup-wizard.php:82
+msgid "Would you mind telling how did you hear about us?"
+msgstr "Würden Sie uns erzählen, wie Sie von uns erfahren haben?"
+
+#: admin/partials/dots-plugin-setup-wizard.php:91
+msgid "WP Mayor"
+msgstr "WP Mayor"
+
+#: admin/partials/dots-plugin-setup-wizard.php:89
+msgid "WPBeginner"
+msgstr "WPBeginner"
+
+#: admin/partials/dots-plugin-setup-wizard.php:93
+msgid "WPExplorer"
+msgstr "WPExplorer"
+
+#: admin/partials/dots-plugin-setup-wizard.php:88
+msgid "WPLift"
+msgstr "WPLift"
+
+#: admin/partials/wpfp-list-page.php:75
+msgid "Yes"
+msgstr "Ja"
+
+#: admin/partials/dots-upgrade-dashboard.php:255
+msgid ""
+"Yes! You can read our %s or submit a %s. We are very responsive and strive "
+"to do our best to help you."
+msgstr ""
+"Ja! Sie können unsere %s lesen oder eine %s senden. Wir reagieren schnell "
+"und tun unser Bestes, um Ihnen zu helfen."
+
+#: admin/partials/dots-plugin-setup-wizard.php:42
+#: admin/partials/dots-plugin-setup-wizard.php:50
+msgid "Yes, count me in!"
+msgstr "Ja, ich bin dabei!"
+
+#: admin/partials/dots-plugin-setup-wizard.php:77
+msgid "You are all set, almost!"
+msgstr "Sie sind fast fertig!"
+
+#: admin/partials/dots-upgrade-dashboard.php:209
+msgid ""
+"You are fully protected by our 100% Satisfaction Guarantee. If over the next "
+"14 days you are unhappy with our plugin or have an issue that we are unable "
+"to resolve, we'll happily consider offering a 100% refund of your money."
+msgstr ""
+"Sie sind durch unsere 100 % Zufriedenheitsgarantie vollständig geschützt. "
+"Wenn Sie innerhalb der nächsten 14 Tage mit unserem Plugin unzufrieden sind "
+"oder ein Problem haben, das wir nicht lösen können, erstatten wir Ihnen "
+"gerne 100 % Ihres Geldes zurück."
+
+#: admin/partials/wpfp-wizard-setting.php:197
+#: admin/partials/wpfp-wizard-setting.php:636
+msgid ""
+"You can add your own Back button text which display at front on pagination."
+msgstr ""
+"U kunt uw eigen tekst op de knop Terug toevoegen die vooraan op de "
+"paginering wordt weergegeven."
+
+#: admin/partials/wpfp-wizard-setting.php:234
+#: admin/partials/wpfp-wizard-setting.php:243
+#: admin/partials/wpfp-wizard-setting.php:673
+#: admin/partials/wpfp-wizard-setting.php:682
+msgid "You can add your own Congratulations message label at front side."
+msgstr ""
+"U kunt uw eigen het berichtetiket van Gelukwensen aan voorzijde toevoegen."
+
+#: admin/partials/wpfp-wizard-setting.php:252
+#: admin/partials/wpfp-wizard-setting.php:691
+msgid "You can add your own Label for total count items after filter."
+msgstr ""
+"U kunt uw eigen label toevoegen voor het totale aantal items na filter."
+
+#: admin/partials/wpfp-wizard-setting.php:187
+#: admin/partials/wpfp-wizard-setting.php:626
+msgid ""
+"You can add your own Next button text which display at front on pagination."
+msgstr ""
+"U kunt uw eigen tekst op de knop Volgende toevoegen die vooraan op de "
+"paginering wordt weergegeven."
+
+#: admin/partials/wpfp-wizard-setting.php:224
+#: admin/partials/wpfp-wizard-setting.php:663
+msgid "You can add your own Product filtered detail link label at front side."
+msgstr ""
+"U kunt uw eigen Product gefilterde detaillinklabel aan de voorkant toevoegen."
+
+#: admin/partials/wpfp-wizard-setting.php:215
+#: admin/partials/wpfp-wizard-setting.php:654
+msgid ""
+"You can add your own Restart button text which display at front on "
+"pagination."
+msgstr ""
+"U kunt uw eigen Herstart-knoptekst toevoegen die vooraan op de paginering "
+"wordt weergegeven."
+
+#: admin/partials/wpfp-wizard-setting.php:206
+#: admin/partials/wpfp-wizard-setting.php:645
+msgid ""
+"You can add your own Show result button text which display at front on "
+"pagination."
+msgstr ""
+"U kunt uw eigen Toon resultaat-knoptekst toevoegen die vooraan op paginering "
+"wordt weergegeven."
+
+#: admin/partials/dots-upgrade-dashboard.php:269
+msgid ""
+"You can pay with your credit card using Stripe checkout. Or your PayPal "
+"account."
+msgstr ""
+"Sie können mit Ihrer Kreditkarte über Stripe Checkout bezahlen. Oder über "
+"Ihr PayPal-Konto."
+
+#: admin/partials/wpfp-get-started-page.php:18
+msgid "YouTube channel"
+msgstr "Youtube Kanal"
